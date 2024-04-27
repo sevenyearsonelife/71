@@ -1,0 +1,1 @@
+[LLaMA: Open and Efficient Foundation Language Models](https://ar5iv.labs.arxiv.org/html/2302.13971?_immersive_translate_auto_translate=1)

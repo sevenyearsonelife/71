@@ -1,0 +1,1 @@
+[Llama 2: Open Foundation and Fine-Tuned Chat Models](https://ar5iv.labs.arxiv.org/html/2307.09288?_immersive_translate_auto_translate=1)
