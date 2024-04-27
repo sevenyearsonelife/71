@@ -21,5 +21,4 @@ Safety and ethical considerations are integral to the development of Llama 2, wi
 Accessibility and Licensing  
 Llama 2 is available under a commercially permissive license, making it accessible for both research and commercial use. This open licensing model is part of Meta's commitment to fostering an open and collaborative AI development environment.
 
-
 In summary, Llama 2 and its fine-tuned variants, Llama 2-Chat, represent significant advancements in the field of large language models, particularly in enhancing the capabilities and ethical considerations of AI-driven dialogue systems.
