@@ -13,6 +13,8 @@ Key Features of Llama 2
 Optimization for Dialogue  
 Llama 2-Chat models are fine-tuned to excel in dialogue-based applications. They are designed to generate human-like responses in conversational AI settings, making them suitable for use in chatbots and other interactive applications. 
 The fine-tuning process includes techniques such as Supervised Fine-Tuning (SFT) and Reinforcement Learning with Human Feedback (RLHF), which help align the models' responses to human preferences for helpfulness and safety.
+> 这里需要特别区分大模型的FT和大模型的SFT，这是两个不同的概念！
+> FT = SFT + RLHF
 
 Performance and Safety  
 Llama 2-Chat models have been evaluated on various benchmarks and have shown to outperform many open-source chat models. They are also comparable in performance to some popular closed-source models like ChatGPT and PaLM. 
