@@ -2,7 +2,7 @@
 [Llama 2: Open Foundation and Fine-Tuned Chat Models](https://ar5iv.labs.arxiv.org/html/2307.09288?_immersive_translate_auto_translate=1)
 
 ## llama 2 中预训练的 LLMS 和微调的 LLMS 之间有什么区别？
-明确大语言模型的整个训练流程：PLM --> SFT --> RLHF
+明确大语言模型的整个训练流程：PLM --> SFT --> RLHF  
 其中：SFT + RLHF = FT
 
 Llama 2 is a collection of large language models (LLMs) developed and released by Meta AI, which includes both pretrained and fine-tuned versions. These models range in scale from 7 billion to 70 billion parameters. The fine-tuned versions, known as Llama 2-Chat, are specifically optimized for dialogue use cases.
