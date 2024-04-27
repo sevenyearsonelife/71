@@ -60,3 +60,7 @@ Comparative Summary:
 Practical Implications:  
 - Choosing SFT: It's suitable when you have access to a large, well-labeled dataset and when the task has clear right or wrong answers.
 - Choosing RLHF: It's useful when the task involves subjective human preferences or when defining explicit correct answers is challenging.
+
+注：
+- 进一步理解SFT。当我们训练聊天机器人的时候，可以收集一些典型的对话数据。预训练模型是使用无监督的方式训练的，学习的是一般性的语言知识。经过收集的对话数据，可以让模型进一步学会怎样聊天。
+- 进一步理解RLHF。收集到的对话数据是符合语言学规律的，但是不一定符合人类的价值观！比如暴力、种族歧视等言论。通过RLHF可以让模型对齐人类的价值观。
